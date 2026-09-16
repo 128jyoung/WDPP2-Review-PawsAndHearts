@@ -1,0 +1,15 @@
+body {
+    background-color: #7e45dd;
+}
+.nav-item {
+    color: #747477;
+}
+.btn-1 {
+    background-color: #7e45dd;
+    border-radius: 10px;
+    color: white;
+}
+.btn-2 {
+    background-color:white;
+    color:#7e45dd;
+}
